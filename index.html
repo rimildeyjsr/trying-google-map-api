@@ -23,7 +23,13 @@ API Course, Lesson 1 -->
             position: tribeca,
             map: map,
             title: 'First Marker!'
-        })
+        });
+        var infoWindow = new google.maps.InfoWindow ({
+            content: "This is an infoWindow! :)"
+        });
+        marker.addEventListener("click",function(){
+           infoWindow.open(map,marker);
+        });
     }
 </script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAQo6vhWd69Kht6Rf4gxNOdJgnz2GcW6ps&v=3&callback=initMap">
