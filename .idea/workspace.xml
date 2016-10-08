@@ -24,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.692308">
-              <caret line="34" column="108" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="108" />
+            <state vertical-scroll-proportion="-19.346153">
+              <caret line="35" column="9" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -41,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map3.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="map3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/map3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.821366">
-              <caret line="137" column="100" selection-start-line="137" selection-start-column="100" selection-end-line="137" selection-end-column="100" />
+            <state vertical-scroll-proportion="-18.692308">
+              <caret line="138" column="9" selection-start-line="135" selection-start-column="0" selection-end-line="138" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map4.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/map4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7915937">
+              <caret line="232" column="9" selection-start-line="232" selection-start-column="9" selection-end-line="232" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -66,6 +76,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/map2.html" />
         <option value="$PROJECT_DIR$/map3.html" />
+        <option value="$PROJECT_DIR$/map4.html" />
       </list>
     </option>
   </component>
@@ -189,7 +200,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
+    <frame x="-7" y="0" width="1378" height="735" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -234,18 +245,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/map3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.692308">
-          <caret line="34" column="108" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="108" />
+          <caret line="138" column="9" selection-start-line="135" selection-start-column="0" selection-end-line="138" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/map3.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.821366">
-          <caret line="137" column="100" selection-start-line="137" selection-start-column="100" selection-end-line="137" selection-end-column="100" />
+        <state vertical-scroll-proportion="-19.346153">
+          <caret line="35" column="9" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7915937">
+          <caret line="232" column="9" selection-start-line="232" selection-start-column="9" selection-end-line="232" selection-end-column="9" />
           <folding />
         </state>
       </provider>
