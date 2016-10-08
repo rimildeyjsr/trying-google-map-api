@@ -51,11 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map4.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="map4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/map4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7915937">
-              <caret line="232" column="9" selection-start-line="232" selection-start-column="9" selection-end-line="232" selection-end-column="9" />
+            <state vertical-scroll-proportion="-16.73077">
+              <caret line="232" column="9" selection-start-line="231" selection-start-column="0" selection-end-line="232" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map5.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/map5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.85113835">
+              <caret line="275" column="119" selection-start-line="275" selection-start-column="119" selection-end-line="275" selection-end-column="119" />
               <folding />
             </state>
           </provider>
@@ -77,6 +87,7 @@
         <option value="$PROJECT_DIR$/map2.html" />
         <option value="$PROJECT_DIR$/map3.html" />
         <option value="$PROJECT_DIR$/map4.html" />
+        <option value="$PROJECT_DIR$/map5.html" />
       </list>
     </option>
   </component>
@@ -200,7 +211,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1378" height="735" extended-state="1" />
+    <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -245,14 +256,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/map3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.692308">
-          <caret line="138" column="9" selection-start-line="135" selection-start-column="0" selection-end-line="138" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.346153">
@@ -263,8 +266,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/map4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7915937">
-          <caret line="232" column="9" selection-start-line="232" selection-start-column="9" selection-end-line="232" selection-end-column="9" />
+        <state vertical-scroll-proportion="-16.73077">
+          <caret line="232" column="9" selection-start-line="231" selection-start-column="0" selection-end-line="232" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.692308">
+          <caret line="138" column="9" selection-start-line="135" selection-start-column="0" selection-end-line="138" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85113835">
+          <caret line="275" column="119" selection-start-line="275" selection-start-column="119" selection-end-line="275" selection-end-column="119" />
           <folding />
         </state>
       </provider>
